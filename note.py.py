@@ -112,7 +112,7 @@ class Notepad:
                 messagebox.showerror("Error", f"Failed to delete note:\n{e}")
 
     def about(self):
-        messagebox.showinfo("About", "Pink Aesthetic Notepad by (Nama Kamu) ♡")
+        messagebox.showinfo("About", "Pink Aesthetic Notepad by Dinda ♡")
 
 # Run Program
 if __name__ == "__main__":
